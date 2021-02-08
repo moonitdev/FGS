@@ -1,0 +1,2 @@
+# FGS
+flask graphql server
